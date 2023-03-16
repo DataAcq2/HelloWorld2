@@ -62,6 +62,6 @@ public class Script
 {
 	public void Run(Engine engine)
 	{
-		engine.GenerateInformation("Hello,world! Empower test");
+		engine.GenerateInformation("Hello,world! Empower test from github repo");
 	}
 }
